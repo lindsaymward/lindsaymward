@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lindsay 🇨🇦🏳️‍🌈 @lindsaymward
 - 👀 I’m interested in switching into a career in tech
-- 🌱 I’m currently learning more in-depth knowledge on JavaScript on FreeCodeCamp
+- 🌱 I’m currently following the Full-Stack Developer career path on Codecademy
 - 💞️ I’m looking to collaborate on any project that needs front-end development
 - 📫 E-mail me at lward2391@gmail.com
 
