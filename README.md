@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lindsay 🇨🇦🏳️‍🌈 @lindsaymward
 - 👀 I’m switching into a career in tech after years of selling 🎸 and managing a retail store
-- 🌱 I’m currently an enrolled Lighthouse Labs Web Development student for the May 1st full-time cohort
+- 🌱 I’m a Lighthouse Labs Web Development graduate
 - 📫 E-mail me at lward2391@gmail.com
 
 <!---
