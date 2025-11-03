@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lindsay 🇨🇦🏳️‍🌈 @lindsaymward
-- 👀 I’m a Senior Support Engineer at Enrollment Resources
+- 👀 I’m a Support Engineer at Kira Talent
 - 🌱 I’m a Lighthouse Labs Web Development graduate
 - 📫 E-mail me at lward2391@gmail.com
 
